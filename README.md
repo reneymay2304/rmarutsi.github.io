@@ -11,7 +11,8 @@ I have experience with data cleaning, feature engineering, model training, and e
 - Goal: Predict whether a patient is likely to be readmitted within 30 days.
 - Key steps: EDA, missing-value handling, categorical encoding, feature engineering, model comparison (Logistic Regression, Random Forest, XGBoost), hyperparameter tuning.
 - Example results: XGBoost (best) — ROC AUC ≈ 0.82 (example).
-- Code & Notebook: DIABETIC%20PATIENT%20READMISSION%20PREDICTION%20MODEL.ipynb
+- Code & Notebook: https://github.com/reneymay2304/rmarutsi.github.io/blob/main/DIABETIC%20PATIENT%20READMISSION%20PREDICTION%20MODEL.ipynb
+
 
 
 ### Loan Approval Prediction Model
