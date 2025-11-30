@@ -21,6 +21,6 @@ I'm Rejoice, a recent Data Science graduate. Below are my project notebooks and 
 
 
 ## Contact
-- Email: reneymay2304@gmail.com  
+- Email: marutsimoreblessing4@gmail.com  
 - GitHub: https://github.com/reneymay2304
 
